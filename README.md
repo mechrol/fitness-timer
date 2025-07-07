@@ -1,1 +1,1 @@
-# fitness-timer
+# fitness-app
